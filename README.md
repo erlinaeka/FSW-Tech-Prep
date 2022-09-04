@@ -9,4 +9,4 @@
 	- isi api_secret dengan api secret akun cloudinary anda
  3. Penggunaan Kode/cara menjalankan program
     - npm run start
- 4. uji coba RESTful yang telah dibuat dapat menggunakan postman.
+ 4. Uji coba RESTful yang telah dibuat dapat menggunakan postman.
